@@ -18,13 +18,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./images/Screenshot.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/nvshanmukh/qr-code-component](https://github.com/nvshanmukh/qr-code-component)
-- Live Site URL: [https://nvshanmukh.github.io/qr-code-component/](https://nvshanmukh.github.io/qr-code-component/)
+- Solution URL: [https://github.com/nvshanmukh/product-preview-card-component](https://github.com/nvshanmukh/product-preview-card-component)
+- Live Site URL: [https://nvshanmukh.github.io/product-preview-card-component/](https://nvshanmukh.github.io/product-preview-card-component/)
 
 ## My process
 
